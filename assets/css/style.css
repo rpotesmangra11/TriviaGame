@@ -1,0 +1,31 @@
+#container {
+    text-align: center;
+    min-height: 1000px;
+    font-weight: bolder;
+}
+
+body html { 
+    height: 100%;
+}
+
+header {
+    font-size: 30px;
+}
+
+.bg { 
+    /* The image used */
+    background-image: url(../images/surf_bg.jpg);
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#myDiv1 {
+    font-size: 30px;
+    color: rgb(7, 96, 99);
+}
